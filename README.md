@@ -1,2 +1,3 @@
 # buy-6-milk
-In this repository, I'll try to make my first project about this joke
+i will try to make a project based on this joke: 
+https://www.webdevelopersnotes.com/wp-content/uploads/joke-being-a-programmer.png
